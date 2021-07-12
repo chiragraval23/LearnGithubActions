@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnGithubActions</string>
+    <string name="hello_github_actions">Hello GitHub Actions!</string>
+</resources>

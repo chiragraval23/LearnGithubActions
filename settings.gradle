@@ -1,0 +1,2 @@
+rootProject.name = "LearnGithubActions"
+include ':app'
